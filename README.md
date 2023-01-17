@@ -1,1 +1,4 @@
-# zxcoderrdev.github.io
+Official zxcoderr's site :)
+<!-- FULL OR PARTIAL COPYING OF FILES IS PROHIBITED OR CONTACT THE OWNER in Telegram @zxcoderr
+FULL OR PARTIAL COPYING OF FILES IS PROHIBITED OR CONTACT THE OWNER in Telegram @zxcoderr
+FULL OR PARTIAL COPYING OF FILES IS PROHIBITED OR CONTACT THE OWNER in Telegram @zxcoderr -->
