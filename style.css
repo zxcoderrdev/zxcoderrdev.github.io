@@ -9,6 +9,7 @@ body {
    background: rgb(2,0,36);
 background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(146,0,255,1) 0%, rgba(160,10,164,1) 100%, rgba(0,212,255,1) 100%);
     font-size: 42px;
+    overflow: hidden
 }
 h1 {
     text-align: center;
