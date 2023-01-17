@@ -60,12 +60,6 @@ button:hover {
   --fourthColor: #FFD600;
   --dropShadowColor: rgba(0, 0, 0, .7);
 }
-html,
-body {
-  overflow: hidden;
-  background-color: var(--backgroundColor);
-}
-
 main {
   display: grid;
   width: 100vw;
