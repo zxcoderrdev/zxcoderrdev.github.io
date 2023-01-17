@@ -52,13 +52,6 @@ button {
 button:hover {
     background: #0f0f0f;
 }
-:root {
-  --backgroundColor: #232323;
-  --firstColor: #00D69C;
-  --secondColor: #C52AFC;
-  --thirdColor: #FF1F00;
-  --fourthColor: #FFD600;
-  --dropShadowColor: rgba(0, 0, 0, .7);
 }
 main {
   display: grid;
@@ -89,11 +82,6 @@ svg {
   position: center;
   border-radius: 15px;
 }
-
-body{
-	 background-color: #000000;
-   padding: 0px;
-   margin: 0px;
  }
 
 #gradient
