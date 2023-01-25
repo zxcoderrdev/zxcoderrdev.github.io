@@ -17,6 +17,7 @@ background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(146,0,255,1) 0%, rgba
     height: 100vh;
 	margin: 0;
 	padding: 0;
+	overflow: hidden;
 }
 h1 {
     text-align: center;
